@@ -5,5 +5,5 @@ void main()
 }#include <stdio.h>
 void main()
 {
-	prtintf("one");
+	prtintf("chandra murali");
 }
